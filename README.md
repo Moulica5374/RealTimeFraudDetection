@@ -3,6 +3,9 @@
 
  Features :
  Real-time streaming of transaction data using Amazon Kinesis.
- Rule-based fraud detection using AWS Lambda
- DynamoDB integration for storing detected fraudulent transactions
- Interactive Gradio dashboard to view and analyze fraud cases
+ 
+ Rule-based fraud detection using AWS Lambda.
+ 
+ DynamoDB integration for storing detected fraudulent transactions.
+ 
+ Interactive Gradio dashboard to view and analyze fraud cases.
